@@ -1,0 +1,17 @@
+# Generated build output
+DerivedData/
+build/
+.build/
+
+# Generated reproduction artifacts
+repro-logs-*/
+*.trace/
+
+# User-local Xcode state
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcuserstate
+
+# macOS filesystem metadata
+.DS_Store
